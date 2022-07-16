@@ -1,0 +1,75 @@
+body {
+  font-family: sans-serif;
+}
+
+.slot-icon {
+  background-image: url("./images/slot-sprite.jpeg");
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 120px;
+  height: 100px;
+}
+
+.cherries {
+  background-position: 0 0;
+}
+
+.plums {
+  background-position: -170px 0;
+}
+
+.bells {
+  background-position: -340px 0;
+}
+
+.clovers {
+  background-position: -510px 0;
+}
+
+.lemons {
+  background-position: 0px -140px;
+}
+
+.coins {
+  background-position: -170px -145px;
+}
+
+.bars {
+  background-position: -340px -140px;
+}
+
+.apples {
+  background-position: -500px -140px;
+}
+
+.hearts {
+  background-position: 0px -280px;
+}
+
+.grapes {
+  background-position: -170px -285px;
+}
+
+.diamonds {
+  background-position: -340px -285px;
+}
+
+.oranges {
+  background-position: -500px -285px;
+}
+
+.horseshoes {
+  background-position: 0px -420px;
+}
+
+.sevens {
+  background-position: -170px -420px;
+}
+
+.wilds {
+  background-position: -340px -425px;
+}
+
+.watermelons {
+  background-position: -505px -425px;
+}
